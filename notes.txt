@@ -1,1 +1,2 @@
-my new git project
+solve prob of ssl
+https://manage.accuwebhosting.com/knowledgebase/3008/How-do-I-enable-TLS-1-2-on-Windows-7.html?__cf_chl_tk=zp6BQUzIpsbXaztUBp9qIX9PAMhAZ1QEvElSj.TiIOI-1674383863-0-gaNycGzNCNE
